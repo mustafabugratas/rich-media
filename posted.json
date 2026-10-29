@@ -1,0 +1,11 @@
+{
+  "_": "Written by publish.mjs (the publish workflow commits it): every schedule.json entry already posted, keyed <date>-<kind>, with its media id and link. Remove a key only to post that entry again.",
+  "posts": {
+    "2026-10-29-reel": {
+      "id": "r02-before-moving-in",
+      "mediaId": "17875958574594658",
+      "at": "2026-10-29T18:28:26.172Z",
+      "permalink": "https://www.instagram.com/reel/DfFpn8ZjVwG/"
+    }
+  }
+}
